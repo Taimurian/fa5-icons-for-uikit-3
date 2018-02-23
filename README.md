@@ -47,10 +47,12 @@ Please notice that I have prefixed all the icons with ```fa-``` to prevent confl
 <a href="#" class="uk-icon-button" uk-icon="fa-twitter"></a>
 ```
 
+## [Demo][5]
 **Enjoy :)**
 
 [1]: https://github.com/uikit/uikit
 [2]: https://getuikit.com/docs/installation
 [3]: https://getuikit.com/docs/icon
 [4]: https://getuikit.com
+[5]: https://taimurian.github.io/fa-icons-for-uikit3/
 
