@@ -51,6 +51,7 @@ Please notice that I have prefixed all the icons with ```fa-``` to prevent confl
 
 ### License
 The original Font Awesome 5 icons created by Dave Gandy can be found at [http://fontawesome.io][6]
+
 UIKit 3 Framework [License][7]
 
 
