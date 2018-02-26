@@ -51,6 +51,7 @@ Please notice that I have prefixed all the icons with ```fa-``` to prevent confl
 
 ### License
 The original Font Awesome 5 icons created by Dave Gandy can be found at [http://fontawesome.io][6]
+UIKit 3 Framework [License][7]
 
 
 **Enjoy :)**
@@ -61,4 +62,5 @@ The original Font Awesome 5 icons created by Dave Gandy can be found at [http://
 [4]: https://getuikit.com
 [5]: https://taimurian.github.io/fa-icons-for-uikit3/
 [6]: https://fontawesome.com/
+[7]: https://github.com/uikit/uikit/blob/develop/LICENSE.md
 
